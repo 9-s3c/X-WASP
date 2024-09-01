@@ -1,14 +1,18 @@
 # X-WASP
-Twitter/X Oauth hacking kit
+Twitter/X Oauth hacking tool
 
-this program is intended for educational purposes, the developer is not responsible for any missuse 
+this program is intended for educational purposes, the developer is not responsible for any misuse 
 
-X-WASP is a system that can be used to collect twitter users Oauth tokens with a twitter card and
-the twitter api. once X-WASP collects a twitter users tokens through the card and the api authorization page, 
+X-WASP is a hacking tool that can be used to take control of twitter users account using Oauth tokens and
+the twitter api without the user needing to type a username or password or 2fa as long as
+the user opens it from the twitter app or website. 
+once X-WASP collects a twitter users tokens through the api authorization page, 
 it can create and delete tweets on the twitter users account using the X-WASP panel
 
+![XW](https://res.cloudinary.com/dxubkzzbx/image/upload/v1725178227/demo3_gbtsj7.png)
 
-![XW](https://github.com/user-attachments/assets/8aec7938-8713-48ec-9557-6266b4f1c769)
+
+![XW](https://res.cloudinary.com/dxubkzzbx/image/upload/v1725178610/demo4_nznhhi.jpg)
 
 
-X-WASP was developed using Python and PHP
+
